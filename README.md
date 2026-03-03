@@ -82,7 +82,7 @@ Installation
 
 Clone the repository:
 
-git clone [https://github.com/yourusername/pitchpro.git](https://github.com/yourusername/pitchpro.git)
+git clone [https://github.com/omaairsk/Pitchpro.git](https://github.com/omaairsk/Pitchpro.git)
 cd pitchpro
 
 
@@ -149,4 +149,4 @@ Distributed under the MIT License. See LICENSE for more information.
 
 react presentation-builder pitch-deck tailwind-css ai-tools gemini-api pdf-generation pptx-generator powerpoint-clone web-app
 
-Built with ❤️ by [[Your Name/Handle](https://github.com/omaairsk)]
+Built with ❤️ by [https://github.com/omaairsk](https://github.com/omaairsk)]
