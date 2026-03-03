@@ -4,6 +4,6 @@ import react from '@vitejs/plugin-react'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  // Replace 'Pitchpro' with your exact GitHub repository name
-  base: '/Pitchpro/', 
+  // Using relative base path './' is the safest way to fix the GitHub white screen issue
+  base: './', 
 })
